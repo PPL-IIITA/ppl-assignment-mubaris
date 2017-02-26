@@ -24,12 +24,24 @@ question_2 -> Boy.py, Girl.py, Gift.py, Couple.py, log.py, util.py & main.py
 ### Method 1
 
 ```
+$ cd question_1
+$ python3 main.py
+```
+
+```
+$ cd question_2
 $ python3 main.py
 ```
 
 ### Method 2
 
 ```
+$ cd question_1
+$ ./main.py
+```
+
+```
+$ cd question_2
 $ ./main.py
 ```
 
