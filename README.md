@@ -6,6 +6,11 @@ Mubaris NK
 
 __IIT2015134__
 
+## Documentation
+
+[Question 1](https://ppl-iiita.github.io/ppl-assignment-mubaris/question_1/doc/)
+[Question 2](https://ppl-iiita.github.io/ppl-assignment-mubaris/question_2/doc/)
+
 ## Directory Hierarchy
 
 question_1 -> Boy.py, Girl.py, util.py, log.py & main.py
