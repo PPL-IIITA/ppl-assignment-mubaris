@@ -13,9 +13,9 @@ __IIT2015134__
 
 ## Directory Hierarchy
 
-question_1 -> Boy.py, Girl.py, util.py, log.py & main.py
+**question_1** --> **doc**, *Boy.py*, *Girl.py*, *log.py*, *util.py*, *main.py*, ***Class-Module Diagram.pdf***
 
-question_2 -> Boy.py, Girl.py, Gift.py, Couple.py, log.py, util.py & main.py
+**question_2** --> **doc**, *Boy.py*, *Girl.py*, *Gift.py*, *Couple.py*, *log.py*, *util.py*, *main.py*, ***Class-Module Diagram.pdf***
 
 ## Build Instructions
 
